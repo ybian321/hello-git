@@ -37,5 +37,3 @@ git reset --hard 4688de48cd34cebff708d47cafeaf6d7568e6549 - “rollback from
 repository” ; git push --force (reset remote repository)
 git clean --force
 git commit --amend (never amend the commit in remote repository)
-
-123
