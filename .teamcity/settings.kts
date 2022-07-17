@@ -70,7 +70,7 @@ object HelloWorld: BuildType({
             scriptContent = "echo 'Hello world!'"
         }
         script {
-            scriptContent = "echo 'Hello Bian!'"
+            scriptContent = "echo 'Hello teamcity!'"
         }
         
     }
