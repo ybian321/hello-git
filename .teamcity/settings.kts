@@ -64,7 +64,7 @@ object FirstChild : Project({
 })
 
 object HelloWorld: BuildType({
-    name = "Hello Steve"
+    name = "Hello Bian"
     steps {
         script {
             scriptContent = "echo 'Hello world!'"
