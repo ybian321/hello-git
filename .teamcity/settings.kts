@@ -125,11 +125,11 @@ object TeamCityPRExample : BuildType({
 
 object VCSExample : GitVcsRoot({
     name = "VCSExample"
-    url = "https://github.com/wellyfox/test_kotlin.git"
+    url = "https://github.com/ybian321/hello-git.git"
     branch = "refs/heads/main"
     authMethod = password {
-        userName = "wellyfox"
-        password = "zxx010cfab59641ee19092b8307a116427c6ae958a7948f59e971b95cf982c6f2c5d196fb90892f7a6f775d03cbe80d301b"
+        userName = "ybian321"
+        password = "credentialsJSON:55c2b382-488a-4f09-956e-20cf5e40ed0e"
     }
 })
 
